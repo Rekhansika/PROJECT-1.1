@@ -6,7 +6,7 @@
 [text](andimg.jfif)
 
 
-<img src="./andimg.jfif"./>
+<img src="./andimg.png"./>
 
 ##Xor
 
