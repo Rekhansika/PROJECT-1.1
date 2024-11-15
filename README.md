@@ -5,10 +5,10 @@
 
 
 
-<img src="/PROJECT-1.1/andimg.png/">
+<img src="./andimg.png">
 
 
 ## Xor
 
 
-<img src="/PROJECT-1.1/Xor.png"/>
+<img src="./Xor.png"/>
